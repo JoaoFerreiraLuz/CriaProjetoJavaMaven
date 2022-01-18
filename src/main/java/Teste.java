@@ -6,7 +6,6 @@ public class Teste {
 
         Path pt = new Path();
         NewProject np = new NewProject();
-
         Scanner sc = new Scanner(System.in);
         System.out.println("\n O que deseja fazer:" +
                 "\n 1- criar novo projeto." +

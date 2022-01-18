@@ -69,7 +69,6 @@ public class NewClass {
         boolean retorno = false;
         try {
             // cria as classes star
-
                 FileWriter arq = new FileWriter( a.getCaminhoback() +"\\" + "Starting.java" );
                 PrintWriter gravarArq = new PrintWriter(arq);
 

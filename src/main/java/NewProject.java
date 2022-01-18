@@ -4,7 +4,6 @@ public class NewProject {
 
     public boolean CreateProject(){
 
-
         boolean result = false;
         Scanner sc = new Scanner(System.in);
         Path pt = new Path();

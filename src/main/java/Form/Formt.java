@@ -76,7 +76,6 @@ public class Formt {
             aux[0] = "String";
         }
         String auxII = aux[1].toUpperCase();
-
         String x = aux[0] +" "+ auxII +" = \""+ aux[1] + "\"";
 
         return "\n    @Column(name = \""+auxII+"\", nullable = false,length = 200)\n" +
